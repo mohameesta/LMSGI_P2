@@ -1,0 +1,29 @@
+h1 {
+    color: blue;         
+    font-weight: bold;   
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+caption {
+    font-size: 25px;
+    color: rgb(211, 211, 60); 
+}
+
+th {
+    width: 100px;
+    background-color: #00ff04; /* Color de fons per les capçaleres */
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+td {
+    text-align: center;
+    border: 1px solid black; 
+}
